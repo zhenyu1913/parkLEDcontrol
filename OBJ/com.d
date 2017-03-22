@@ -1,0 +1,9 @@
+..\obj\com.o: ..\APP\com.c
+..\obj\com.o: ..\APP\com.h
+..\obj\com.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\com.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\com.o: ..\APP\app.h
+..\obj\com.o: ..\APP\displayMidware.h
+..\obj\com.o: ..\SYSTEM\multi_com.h
+..\obj\com.o: ..\SYSTEM\multi_com_port.h
+..\obj\com.o: ..\SYSTEM\multi_com.h
